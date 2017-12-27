@@ -7,7 +7,7 @@ For majority of them, the code is written in codeskulptor, an online Python IDE.
 
 2) [Black Jack](http://www.codeskulptor.org/#user25_taWnAp0yDGKqNYX.py) (No option to split cards)
 
-3) [Tic-Tac-Toe](http://www.codeskulptor.org/#user36_c5fw7avXJ0_6.py) (User can't win. Computer tries to win or draws the match).
+3) [Tic-Tac-Toe (Minimax)](http://www.codeskulptor.org/#user36_c5fw7avXJ0_6.py) (User CAN'T win. Computer tries to win or draws the match) and [Tic-Tac-Toe (Monte Carlo)](http://www.codeskulptor.org/#user35_legXYhT3SV_11.py) (Faster gameplay).
 
 4) [2048 Game!](http://www.codeskulptor.org/#user34_msTbL0lkbu_24.py) (Based on the famous 2048 Game App)
 
